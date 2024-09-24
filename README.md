@@ -46,4 +46,4 @@ To reproduce the analysis, follow these steps:
 3. Run the Jupyter Notebook or Python scripts provided in the repository to perform data exploration and visualization.
 
 ### Contact
-For any questions or further information, feel free to reach out via email or visit my LinkedIn.
+For any questions or further information, feel free to reach out via email or visit my [LinkedIn.](https://www.linkedin.com/in/elifatasal/)
