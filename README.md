@@ -1,7 +1,7 @@
-# Exploratory-Data-Analysis-on-Nobel-Prizes-Dataset-PYTHON
+# Exploratory Data Analysis on Nobel Prizes Dataset PYTHON
 
 ### Overview
-This project involves conducting Exploratory Data Analysis (EDA) on the Nobel Prizes (1901*2016) dataset. The aim is to analyze trends, patterns, and insights from Nobel Prize award data over the years. The analysis covers various aspects of the dataset, including laureates' achievements, award categories, and the distribution of prizes across different countries, ages, and disciplines.
+This project involves conducting Exploratory Data Analysis (EDA) on the Nobel Prizes (1901-2016) dataset. The aim is to analyze trends, patterns, and insights from Nobel Prize award data over the years. The analysis covers various aspects of the dataset, including laureates' achievements, award categories, and the distribution of prizes across different countries, ages, and disciplines.
 
 ### Objectives
 1. **Data Exploration and Cleaning**:
